@@ -1,5 +1,5 @@
 # hello-world
-a test repository
+a test repo
 
 Hola Humanos!!
 me han modificado
